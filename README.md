@@ -1,4 +1,6 @@
 # dice_roller
+![u](https://github.com/HeyIamMarasiniAmrit/Dice-Roller-App/assets/101445427/ef7287b7-526a-4232-8b64-9a5eb881424b)
+
 
 A new Flutter project.
 
