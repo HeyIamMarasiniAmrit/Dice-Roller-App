@@ -6,8 +6,6 @@ A new Flutter project.
 
 ## Getting Started
 
-Creating a README for your Flutter dice roller app project on GitHub is a great way to provide information about your project to potential users and contributors. Here's a template for a README that you can use as a starting point:
-
 Dice Roller App
 Flutter
 Dart
@@ -19,9 +17,6 @@ Features
 Roll a standard 6-sided die.
 Roll dice with custom sides (e.g., 4, 8, 10, 12, 20-sided dice).
 Shake your device to roll the dice for a more interactive experience.
-
-
-Creating a README for your Flutter dice roller app project on GitHub is a great way to provide information about your project to potential users and contributors. Here's a template for a README that you can use as a starting point:
 
 Dice Roller App
 Flutter
