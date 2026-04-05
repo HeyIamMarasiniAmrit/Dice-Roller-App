@@ -1,6 +1,8 @@
 # dice_roller
 ![u](https://github.com/HeyIamMarasiniAmrit/Dice-Roller-App/assets/101445427/ef7287b7-526a-4232-8b64-9a5eb881424b)
 
+<img width="1725" height="647" alt="Image" src="https://github.com/user-attachments/assets/5f03f0ed-a32e-4d67-abaa-ea338f7bc080" />
+
 
 A new Flutter project.
 
